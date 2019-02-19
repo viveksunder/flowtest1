@@ -1,2 +1,2 @@
 # flowtest1
-Git flow test
+Fix critical bug
